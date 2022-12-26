@@ -20,7 +20,7 @@ function getNums(num1, num2) {
             console.log(num1);
             num1++;
         }
-    }, 1000)
+    }, 1000);
 }
 
 getNums(5, 15);
